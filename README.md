@@ -1,2 +1,2 @@
 # MyAppPortfolio
-MyAppPortfolio is a Android Developer project. 
+MyAppPortfolio is a project done in Android studio. 
