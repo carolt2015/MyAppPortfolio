@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 //Using Toast to print the message when button is clicked.
+                //source: https://developer.android.com/guide/topics/ui/notifiers/toasts.html
                 Toast.makeText(getBaseContext(), "This button will launch my popular movies app!", Toast.LENGTH_SHORT).show();
             }
         });
