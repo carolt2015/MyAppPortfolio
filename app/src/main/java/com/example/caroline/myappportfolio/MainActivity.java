@@ -22,11 +22,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
+        // source: https://developer.android.com/reference/android/widget/Button.html
         // POPULAR MOVIES (button)
         // Initializing the below button(s) by id and casting it to Button class.
         btnPopularMovies = (Button) findViewById(R.id.btnPopularMovies);
-
         // Setting OnclickListener to the button(s)
         btnPopularMovies.setOnClickListener(new View.OnClickListener() {
             @Override
