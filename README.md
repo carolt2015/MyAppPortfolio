@@ -1,2 +1,2 @@
 # MyAppPortfolio
-MyAppPortfolio is a project done in Android studio. 
+MyAppPortfolio displays a list of apps created during the Android Developer NanoDegree coursework at Udacity .
